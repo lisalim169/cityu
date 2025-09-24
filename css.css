@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    text-align:left;
+    color: black;
+    background-color:white;
+    padding: 10px;
+}
+.first {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    text-align:left;
+    color: black;
+    background-color: seashell;
+      padding: 10px;
+}
+.second {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    text-align:left;
+    color: black;
+    background-color: seashell;
+      padding: 10px;
+}
+.columns {
+    display: flex;
+    gap: 20px;
+}
+.QR {
+    flex: 1.25;
+    min-width: 0;
+        font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    text-align:center;
+    color: black;
+    background-color: seashell;
+      padding: 10px;
+}
+.Pinyin {
+    flex: 2;
+    min-width: 0;
+        font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    text-align:center;
+    color: black;
+    background-color: seashell;
+      padding: 10px;
+}
